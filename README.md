@@ -1,17 +1,16 @@
 <p>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="30" height="30"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="30" height="30"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="docker" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="30" height="30"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vim/vim-original.svg" alt="vim" width="30" height="30"/>
+  <img src="https://img.icons8.com/ios/50/000000/python--v1.png" alt="python" width="30" height="30"/>
+  <img src="https://img.icons8.com/ios/50/000000/django.png" alt="django" width="30" height="30"/>
+  <img src="https://img.icons8.com/color/50/000000/nginx.png" alt="nginx" width="30" height="30"/>
+  <img src="https://img.icons8.com/ios/50/000000/docker.png alt="docker" width="30" height="30""/>
+  <img src="https://img.icons8.com/ios/50/000000/javascript--v1.png alt="JavaScript" width="30" height="30""/>
+  <img src="https://img.icons8.com/ios/50/000000/jquery.png alt="JQuery" width="30" height="30""/>
+  <img src="https://img.icons8.com/ios/50/000000/html-5--v1.png alt="HTML5" width="30" height="30""/>
+  <img src="https://img.icons8.com/color/50/000000/bootstrap.png alt="Bootstrap" width="30" height="30""/>
+  <img src="https://img.icons8.com/ios/50/000000/postgreesql.png alt="Postgresql" width="30" height="30""/>
+  <img src="https://img.icons8.com/wired/50/000000/linux.png alt="linux" width="30" height="30""/>
+  <img src="https://img.icons8.com/ios/50/000000/windows-logo.png alt="windows" width="30" height="30""/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
+  <img src="https://img.icons8.com/color/48/000000/notion.png" alt="Notion" width="30" height="30"/>
 </p>
