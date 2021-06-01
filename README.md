@@ -11,6 +11,6 @@
   <img src="https://img.icons8.com/wired/50/000000/linux.png" alt="linux" width="30" height="30"/>
   <img src="https://img.icons8.com/ios/50/000000/windows-logo.png" alt="windows" width="30" height="30"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="30"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> 
+  <img src="https://img.icons8.com/ios/50/000000/git.png" alt="git" width="30" height="30"/>
   <img src="https://img.icons8.com/color/48/000000/notion.png" alt="Notion" width="30" height="30"/>
 </p>
